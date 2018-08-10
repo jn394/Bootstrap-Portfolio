@@ -1,0 +1,12 @@
+.container {
+    animation: pulse 5s 1;
+  }
+  
+  @keyframes pulse {
+    0% {
+      background-color: #4aaaa5;
+    }
+    100% {
+      background-color: white;
+    }
+  }
